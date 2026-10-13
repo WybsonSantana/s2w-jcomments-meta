@@ -1,0 +1,6 @@
+[submodule "microservices/comment-service-java"]
+	path = microservices/comment-service-java
+	url = https://github.com/WybsonSantana/comment-service-java
+[submodule "microservices/moderation-service-java"]
+	path = microservices/moderation-service-java
+	url = https://github.com/WybsonSantana/moderation-service-java
